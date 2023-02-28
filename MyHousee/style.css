@@ -1,0 +1,23 @@
+h1 {text-align: center; color: #0000FF; font-family: Verdana; font-size: 20pt}
+h2 {text-align: right; color: #800000; font-family: Verdana; font-size: 16pt}
+p {text-align: justify; color: #191970; font-weight: bold; font-family: Arial; font-size: 12pt}
+body {background-image: url(fon9.jpg)}   
+h3 {text-align: left; color: #0000FF; font-weight: normal; font-family: Times New Roman; font-size: 13pt}
+h4 {text-align: left; color: #0000FF; font-weight: normal; font-family: Times New Roman; font-size: 13pt}
+li {font-weight: bold}
+
+h1.main, h1.golub, h1.krasn, h1.zelen, h1.oranzhev {
+	color:navy; font-family: Verdana; text-align: left; font-size: 14pt}
+h1.main{color:navy}
+h1.golub{color:blue}
+h1.krasn{color:red}
+h1.zelen{color:green}
+h1.oranzhev{color:orange}
+
+p.first{text-align: center; color: navy; font-weight: bold; font-family: Arial; font-size: 12pt}
+p.two{text-align: justify; color: blue; font-weight: bold; font-family: Arial; font-size: 12pt}
+p.three{text-align: right; color: red; font-weight: bold; font-family: Arial; font-size: 12pt}
+p.four{text-align: justify; color: green; font-weight: bold; font-family: Arial; font-size: 12pt}
+p.five{text-align: center; color: orange; font-weight: bold; font-family: Arial; font-size: 12pt}
+
+
